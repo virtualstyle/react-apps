@@ -15,8 +15,5 @@ module.exports = {
     path: __dirname + '/dist',
     publicPath: '/',
     filename: 'index.js'
-  },
-  devServer: {
-    contentBase: './dist'
   }
 };
